@@ -1,5 +1,5 @@
 # tic-tac-toe
-**An _AI Tic-Tac-Toe_ Program plays optimally to either win or draw a game.**
+**An _AI Tic-Tac-Toe_ Program that plays optimally to either win or draw a game.**
 
 ## There are two implementations:
 - Naive Implementation(Using a set of fixed rules.)
